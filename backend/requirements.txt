@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+supabase
+sqlalchemy
+geoalchemy2
+asyncpg
+pydantic
+pydantic-settings
+redis
+python-multipart
+email-validator
+requests
